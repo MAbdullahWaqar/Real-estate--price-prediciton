@@ -1,4 +1,4 @@
-# 🏠 NeoHome — Bangalore Real Estate Price Predictor
+#  NeoHome — Bangalore Real Estate Price Predictor
 
 ## Overview
 
@@ -37,7 +37,7 @@ NeoHome is an end-to-end machine learning application that predicts residential 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/Real-estate--price-prediciton.git
+git clone https://github.com/MAbdullahWaqar/Real-estate--price-prediciton.git
 cd Real-estate--price-prediciton
 
 # 2. Install Python dependencies
@@ -197,5 +197,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-**vanix056**  
-GitHub: [@vanix056](https://github.com/vanix056)
+**Muhammad Abdullah Waqar**  
+GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
